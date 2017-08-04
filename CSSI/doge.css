@@ -1,0 +1,29 @@
+#pink {
+  color: red;
+}
+
+#one{
+  float: left;
+}
+
+#two {
+  float:right;
+  padding-top: 200;
+  padding-right: 200;
+}
+
+#three {
+  padding-top: 200;
+  padding-bottom: 100;
+
+}
+
+#four {
+  padding-right: 400;
+}
+
+
+#disappear {
+  background-color: blue;
+  color: white;
+}

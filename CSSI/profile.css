@@ -1,0 +1,48 @@
+  .red-heading {
+    color: red;
+    font-size: 75px;
+  }
+
+  .blue-heading {
+    color: blue;
+  }
+
+  .big {
+    font-size: 50px;
+  }
+
+  .green {
+    color: green;
+  }
+
+  .big.green {
+    text-decoration: underline;
+  }
+
+  span {
+    color: orange;
+    font-size: 30px;
+  }
+  /*   div {
+    border-style: solid;
+    border-color: yellow;
+    width: 500px;
+    padding: 15px;
+    background-color: pink;
+  }
+*/
+
+  div.colorOne {
+    border-style: dotted;
+    border-color: blue;
+    width: 500px;
+  }
+
+  #disappear-div {
+    background-color: green;
+    width: 50px;
+  }
+
+  .hidden {
+    display: none;
+  }

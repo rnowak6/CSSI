@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+    display: inline-block;
+    background-color:grey;
+    width: 50px;
+}
+ul {
+ 	display:inline-block;
+    background-color:red;
+    width: 100px;
+    }
+</style>
+</head>
+<body>
+
+
+
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<p>This is a paragraph.</p>
+<br>
+<ul>
+<li> one </li>
+<li> two </li>
+<li> three </li>
+</ul>
+</body>
+</html>
